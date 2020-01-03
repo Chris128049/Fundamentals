@@ -1,0 +1,11 @@
+C:\Users\chris\Desktop\algos\fundamentals\bin\Debug\netcoreapp3.0\fundamentals.exe
+C:\Users\chris\Desktop\algos\fundamentals\bin\Debug\netcoreapp3.0\fundamentals.deps.json
+C:\Users\chris\Desktop\algos\fundamentals\bin\Debug\netcoreapp3.0\fundamentals.runtimeconfig.json
+C:\Users\chris\Desktop\algos\fundamentals\bin\Debug\netcoreapp3.0\fundamentals.runtimeconfig.dev.json
+C:\Users\chris\Desktop\algos\fundamentals\bin\Debug\netcoreapp3.0\fundamentals.dll
+C:\Users\chris\Desktop\algos\fundamentals\bin\Debug\netcoreapp3.0\fundamentals.pdb
+C:\Users\chris\Desktop\algos\fundamentals\obj\Debug\netcoreapp3.0\fundamentals.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\algos\fundamentals\obj\Debug\netcoreapp3.0\fundamentals.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\algos\fundamentals\obj\Debug\netcoreapp3.0\fundamentals.AssemblyInfo.cs
+C:\Users\chris\Desktop\algos\fundamentals\obj\Debug\netcoreapp3.0\fundamentals.dll
+C:\Users\chris\Desktop\algos\fundamentals\obj\Debug\netcoreapp3.0\fundamentals.pdb
